@@ -1,0 +1,3 @@
+clopotel.admin@gmail.com
+{'auth_token':
+'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTM3NDk5MzcsImlhdCI6MTYxMzY2MzUzNywic3ViIjoiY2xvcG90ZWwuYWRtaW5AZ21haWwuY29tIn0.cQ7pgwqZKWiGx3NuHKvGycTTDKIcuA9ijtx-3PgiPjo'}
